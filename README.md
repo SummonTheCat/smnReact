@@ -21,7 +21,7 @@ To use SmnReact, you'll need a basic understanding of HTML, CSS, and JavaScript.
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/yourusername/SmnReact.git
+   git clone https://github.com/SummonTheCat/SmnReact.git
    cd SmnReact
    ```
 2. **Open in a browser**
